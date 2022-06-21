@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        Made with <img src="/netliheart.svg" alt="Netlify Logo" className={styles.logo} /> for you
+        Github Repo:https://github.com/Ammaar-e/jellyTIN/edit/main/README.md | This Theme is meant to work for Jellyfin!?
       </footer>
     </>
   )

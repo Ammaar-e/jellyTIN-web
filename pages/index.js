@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Ammaar was here</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
+        <Header title="jellyTIN" />
+        <p className="desription">
+        @import url("https://cdn.jsdelivr.net/gh/Ammaar-e/jellyTIN@main/deafult.css"); <code>Made By Ammaar#8740</code>
         </p>
       </main>
 
