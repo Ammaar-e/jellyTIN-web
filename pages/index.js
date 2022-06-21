@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="jellyTIN" />
         <p className="desription">
-        Made By Ammaar#8740 Import the code over there - into jellyfin<code>@import url("https://cdn.jsdelivr.net/gh/Ammaar-e/jellyTIN@main/deafult.css");</code>
+        Made By Discord: Ammaar#8740 Import the code over there - into jellyfin<code>@import url("https://cdn.jsdelivr.net/gh/Ammaar-e/jellyTIN@main/deafult.css");</code>
         </p>
       </main>
 
